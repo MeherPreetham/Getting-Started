@@ -1,1 +1,2 @@
-This is techinically my first github file.
+This is technically my first GitHub file.
+But practically I have already made 2 commits before.
