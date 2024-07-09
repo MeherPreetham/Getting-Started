@@ -2,5 +2,3 @@ This is technically my first GitHub file.
 But practically I have already made 2 commits before.
 I had to make those commits because of my coursework, that I did not understand.
 This is an alternate file to see if I understand the concept of branching and how it works.
-I just added a line for example purposes.
-The multiverse is real, believe in it.
